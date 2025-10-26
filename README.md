@@ -1,21 +1,29 @@
-<h1 align="center">🚀 Hieuxyz - Developer</h1>
-<h3 align="center">A passionate developer from Vietnam 🇻🇳</h3>
+# 👋 Hi there
+<h2 align="center">I'm Hieuxyz</h2>
+<h3 align="center">A developer from Vietnam 🇻🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hieuxyz00&label=Profile%20views&color=0e75b6&style=flat" alt="hieuxyz00" />
+<a href="https://github.com/hieuxyz00">
+<img src="https://count.getloli.com/@hieuxyz?name=hieuxyz&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="hieuxyz00" />
+</a>
+<a href="https://github.com/hieuxyz00?tab=followers">
+<img src="https://img.shields.io/github/followers/hieuxyz00?label=Followers&style=social" alt="GitHub followers">
+</a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hieuxyz00&theme=darkhub&no-frame=true&row=1&column=7" alt="hieuxyz00" />
-  </a>
-</p>
-
+📊 GitHub Stats:
 <div align="center">
-  <h3>GitHub Stats</h3>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hieuxyz00&show_icons=true&theme=tokyonight&title_color=00ff00&bg_color=00ffff&locale=vi&layout=compact" alt="hieuxyz00" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hieuxyz00&show_icons=true&theme=tokyonight&locale=vi" alt="hieuxyz00" />
-  
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=hieuxyz00&theme=dark" alt="hieuxyz00" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieuxyz00&show_icons=true&theme=ambient_gradient&hide_border=true&layout=compact" alt="hieuxyz00" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hieuxyz00&show_icons=true&theme=ambient_gradient&locale=vi" alt="hieuxyz00" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=hieuxyz00&theme=ambient_gradient" alt="hieuxyz00" />
 </div>
+
+🏆 GitHub Summary
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hieuxyz00&theme=2077" alt="hieuxyz00"/>
+</p>
+
+✍️ Random Dev Quote
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="hieuxyz00"/>
+</p>
