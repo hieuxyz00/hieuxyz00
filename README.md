@@ -14,7 +14,7 @@
 📊 GitHub Stats:
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieuxyz00&show_icons=true&theme=ambient_gradient&hide_border=true&layout=compact" alt="hieuxyz00" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hieuxyz00&show_icons=true&theme=ambient_gradient&locale=vi" alt="hieuxyz00" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hieuxyz00&show_icons=true&theme=ambient_gradient" alt="hieuxyz00" />
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=hieuxyz00&theme=ambient_gradient" alt="hieuxyz00" />
 </div>
 
