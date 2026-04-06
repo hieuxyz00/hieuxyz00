@@ -6,6 +6,7 @@
 <a href="https://github.com/hieuxyz00">
 <img src="https://count.getloli.com/@hieuxyz?name=hieuxyz&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="hieuxyz00" />
 </a>
+<br>
 <a href="https://github.com/hieuxyz00?tab=followers">
 <img src="https://img.shields.io/github/followers/hieuxyz00?label=Followers&style=social" alt="GitHub followers">
 </a>
