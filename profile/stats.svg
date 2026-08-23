@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">hieuxyz&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 5, Total Commits  : 1163, Total PRs: 4, Total Issues: 3, Contributed to (last year): 8</desc>
+        <desc id="descId">Total Stars Earned: 5, Total Commits  : 1223, Total PRs: 4, Total Issues: 3, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 204.49842495248586;
+        stroke-dashoffset: 203.73640238342284;
       }
     }
   
